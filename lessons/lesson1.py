@@ -100,9 +100,8 @@ def load_lesson_1_1():
     print("Choose one of the following options:")
     controls.select_option(
         option_descriptions=[
-            "Try problems in interest",
             "Relearn this lesson",
             "Proceed to lesson 2",
         ],
-        option_selection=[load_lesson_1, load_lesson_1, lessons.lesson2.load_lesson_2],
+        option_selection=[load_lesson_1, lessons.lesson2.load_lesson_2],
     )
