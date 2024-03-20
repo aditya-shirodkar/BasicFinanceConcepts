@@ -11,7 +11,13 @@ Of these, the first two include graphical simulations, while the third is purely
 Some notes:
 - To run the game, please execute "game.py"
 - The only external module used is plotext, a graph plotting tool which can display graphs on the terminal.
-- Further improvements can be made by adding dynamic components to the built simulations, so that they can be used to generate problems which students can then solve.
+- The presence of formulae has been reduced. It is recommended that interested students search online if they're keen on learning the math behind the graphs generated, or to inspect the code.
+
+Further improvements that can be made to improve on the game:
+- An automated problem generator for simple and compound interest can be included. The existing tutorial simulation can be repurposed for this.
+- The market simulator can be made more dynamic and readable by using classes. The current implementation is a simple logic-driven one.
+- The market simulator can be expanded to include additional features such as sellers with more than one item to sell, buyers and sellers entering and leaving the market, as well as including other financial concepts like inflation.
+- EBIDTA could use a trial problem: a suggestion would be to calculate EBIDTA using both methods suggested.
 
 References:
 1) Investopedia
