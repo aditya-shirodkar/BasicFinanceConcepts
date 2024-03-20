@@ -1,5 +1,5 @@
 # BasicFinanceConcepts
-A game designed to teach basic finance concepts to children aged 8+.
+This is a text-based game designed to teach basic finance concepts to children aged 8+.
 
 This game covers the following concepts:
 1) Simple and compound interest
